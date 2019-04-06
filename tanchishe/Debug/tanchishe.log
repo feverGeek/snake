@@ -1,0 +1,8 @@
+﻿  Food.cpp
+  Controller.cpp
+c:\users\linucys\desktop\贪吃蛇\tanchishe\tanchishe\controller.cpp(245): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  正在生成代码...
+  正在跳过...(未检测到相关更改)
+  Snake.cpp
+  tanchishe.vcxproj -> C:\Users\linucys\Desktop\贪吃蛇\tanchishe\Debug\tanchishe.exe
+  tanchishe.vcxproj -> C:\Users\linucys\Desktop\贪吃蛇\tanchishe\Debug\tanchishe.pdb (Full PDB)
